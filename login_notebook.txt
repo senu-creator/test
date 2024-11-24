@@ -1,0 +1,17 @@
+[
+  {
+    "username": "abc",
+    "password": "123",
+    "status": "failure"
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "status": "failure"
+  },
+  {
+    "username": "test",
+    "password": "etech",
+    "status": "failure"
+  }
+]
